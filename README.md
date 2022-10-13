@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leon Lama</h1>
 <h3 align="center">I am a UI/UX designer and a front-end web developer currently residing in Ktm, Nepal.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=2002lyon&label=Profile%20views&color=0e75b6&style=flat" alt="2002lyon" /> </p>
 
 - 🌱 I’m currently learning **React**
 
