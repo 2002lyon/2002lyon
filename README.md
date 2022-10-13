@@ -4,11 +4,11 @@
 
 Incorporating the best elements from both worlds into my work, which is renowned for its sophisticated simplicity and thoughtful detailing.
 
-All of my projects are available at **[leonlama.ml](leonlama.ml)**
-
 If you are interested! Shoot a mail at:  **leon.lama2002@gmail.com**
 
 Besides being a UI/UX designer, I am also a Student who travels to explore the natural beauty that lies within this world.
+
+More about me on: https://leonlama.ml
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
