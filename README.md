@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leon Lama</h1>
-<h3 align="left">I am a front-end web developer currently residing in Ktm, Nepal.</h3>
+<h3 align="left">I am a Front-End web developer</h3>
 
 If you are interested! Shoot a mail at:  **leon.lama2002@gmail.com
 
