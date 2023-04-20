@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leon Lama</h1>
-<h3 align="left">I am a UI/UX designer and a front-end web developer currently residing in Ktm, Nepal.</h3>
+<h3 align="left">I am a front-end web developer currently residing in Ktm, Nepal.</h3>
 
-
-Incorporating the best elements from both worlds into my work, which is renowned for its sophisticated simplicity and thoughtful detailing.
-
-If you are interested! Shoot a mail at:  **leon.lama2002@gmail.com**
-
-Besides being a UI/UX designer, I am also a Student who travels to explore the natural beauty that lies within this world.
-
-More about me on: https://leonlama.ml
+If you are interested! Shoot a mail at:  **leon.lama2002@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
