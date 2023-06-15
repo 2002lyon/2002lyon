@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leon Lama</h1>
-<h3 align="left">I am a Front-End web developer</h3>
+<h3 align="left">I am a MERN Stack developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
