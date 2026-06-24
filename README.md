@@ -1,22 +1,7 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi My name is Leon Lama
 ==================================================================================================================================
 
-Full-stack developer with 2+ years of production experience building web and mobile applications with modern UI and AI-powered features
----------------------------------------------------------------------------------------------------------------------------------------
-
-I am a full-stack software developer with over two years of experience building and shipping production-grade web and mobile applications using React, Next.js and React Native. I focus on delivering clean, responsive and scalable user interfaces with strong attention to usability, performance and visual consistency.
-
-My background in UX and product design strongly influences how I approach engineering. I design and implement intuitive user flows, reusable component systems and accessible interfaces that work reliably across browsers and devices. I have hands-on experience with modern UI stacks such as Tailwind CSS and Material-UI, and I regularly translate complex product requirements into maintainable frontend architectures.
-
-A major part of my recent work involves integrating AI capabilities directly into user-facing applications. I have delivered conversational interfaces, real-time streaming responses, voice-based interactions and emotion-aware UI features. This includes handling live UI updates, state orchestration for AI workflows and designing interaction patterns for AI-powered products in production environments.
-
-In my current role at Arbyte Solutions, I have contributed to multiple large-scale applications serving thousands of users, implementing responsive and cross-browser compatible features for Chrome, Firefox, Safari and Edge. I have also built internal dashboards and data-driven interfaces that improved operational workflows and everyday usability for business users. I collaborate closely with designers, product managers and engineers in an Agile environment, and regularly participate in code reviews and technical discussions.
-
-Backend experience: I work with Node.js, Express and PostgreSQL to support application features, build and consume APIs, and integrate third-party and AI services.
-
-I have contributed to enterprise, public-sector and startup products, including HR and learning platforms, company portfolio systems and government dashboards. Across these projects, I focus on delivering reliable, user-centric applications while enabling modern AI-driven functionality in real production systems.
-
-My goal is to continue building high-quality software products and deepen my expertise in applied AI, especially in conversational systems, voice interfaces and intelligent user experiences.
+Hi, I'm Leon Lama. I transform complex problems into elegant, scalable digital experiences that drive growth and captivate users.
 
 * 🌍  I'm based in Nepal
 * 🖥️  See my portfolio at [view portfolio](http://leonlama.com.np)
