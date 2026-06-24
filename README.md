@@ -79,7 +79,6 @@ const leon = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=2002lyon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=6366f1&text_color=c4b5fd" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2002lyon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&text_color=c4b5fd" height="165" alt="Top Languages" />
 </p>
 
 ---
@@ -96,10 +95,3 @@ const leon = {
 ```
 
 ---
-
-<p align="center">
-  <sub>
-    Built with curiosity from Kathmandu, Nepal 🏔️ &nbsp;·&nbsp;
-    <a href="https://leonlama.com.np">leonlama.com.np</a>
-  </sub>
-</p>
