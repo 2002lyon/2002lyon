@@ -24,7 +24,7 @@
   <a href="mailto:leonlama.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-leonlama.dev%40gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/@leonlama">
+  <a href="https://linkedin.com/in/leonlama">
     <img src="https://img.shields.io/badge/LinkedIn-@leonlama-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://medium.com/@leonlama">
