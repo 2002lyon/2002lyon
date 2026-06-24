@@ -36,7 +36,7 @@
 
 ```typescript
 const leon = {
-  role:       "Software Developer @ Arbyte",
+  role:       "Software Developer",
   focus:      ["Frontend Architecture", "Scalable UX", "Performance"],
   currently:  "Building things that ship, not just things that demo",
   openTo:     ["Interesting problems", "Collaboration", "Coffee chats"],
