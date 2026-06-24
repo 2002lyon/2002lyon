@@ -6,7 +6,7 @@
 ║  ✓ Problem solver          loaded                            ║
 ║  ✓ UI obsessive            loaded                            ║
 ║  ✓ Scale enthusiast        loaded                            ║
-║  ✓ Based in Kathmandu 🇳🇵   loaded                            ║
+║  ✓ Based in Kathmandu      loaded                            ║
 ║                                                              ║
 ║  Status: Ready to build.                                     ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -75,10 +75,6 @@ const leon = {
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=2002lyon&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=a78bfa&currStreakLabel=c4b5fd" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2002lyon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=6366f1&text_color=c4b5fd" height="165" alt="GitHub Stats" />
 </p>
 
 ---
